@@ -11,4 +11,9 @@ Modeling: Trained and compared Linear Regression and XGBoost models. Applied hyp
 
 Deployment: Achieved a 98% R² score. Built and deployed a Streamlit web app for real-time premium prediction, allowing users to interactively explore model outcomes.
 
+(At least 95% of prediction errors have a percentage difference of less than 10% between the predicted and actual values.)
+![Screenshot 2025-04-12 062433](https://github.com/user-attachments/assets/009f35c7-bac6-49f0-ab13-864b9aeebc6d)
 
+(Feature importance analysis revealed that insurance plans, genetic risks, and risk scores have the highest impact on predicting insurance costs.)
+![Screenshot 2025-04-12 062452](https://github.com/user-attachments/assets/fe5d6e12-c33b-4207-aa53-e9daec8bb638)
+                             
